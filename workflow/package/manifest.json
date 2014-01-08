@@ -1,8 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "SteedOS Workflow",
-  "version": "1.3.0",
-  "description": "SteedOS workflow is an easy-to-use workflow product, completely cloud based and accessed via any web browser.",
+  "version": "1.3.2",
+  "name": "__MSG_appName__",
+  "short_name": "SteedOS Workflow",
+  "description": "__MSG_appDesc__",
+  "default_locale": "en",
   "icons": {
     "128": "icons/128x128-icon.png",
     "32": "icons/32x32-icon.png",
@@ -11,11 +13,8 @@
     "16": "icons/16x16-icon.png"
   },
   "app": {
-    "urls": [
-      "https://steedos.com/#workflow"
-    ],
     "launch": {
-      "web_url": "https://steedos.com/#workflow"
+      "web_url": "https://setup.steedos.com/google/workflow/sso?apps=workflow,admin"
     }
   },
   "permissions": [
