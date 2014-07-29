@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "version": "1.6.1",
+  "version": "1.0.0",
+  "short_name": "oTask",
   "name": "__MSG_appName__",
-  "short_name": "oWorkflow",
   "description": "__MSG_appDesc__",
   "default_locale": "en",
   "icons": {
@@ -14,7 +14,7 @@
   },
   "app": {
     "launch": {
-      "web_url": "https://www.steedos.com/us/workflow/"
+      "web_url": "https://otask.steedos.com"
     }
   },
   "permissions": [
