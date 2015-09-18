@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.5.0",
+  "version": "2.0.1",
   "short_name": "SteedOS Chat",
   "name": "__MSG_appName__",
   "description": "__MSG_appDesc__",
@@ -14,7 +14,7 @@
   },
   "app": {
     "launch": {
-      "web_url": "https://steedos.com/#chat"
+      "web_url": "https://chat.steedos.com"
     }
   },
   "permissions": [

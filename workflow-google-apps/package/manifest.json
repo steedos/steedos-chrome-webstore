@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "SteedOS Workflow for Google Apps",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "description": "SteedOS workflow is an easy-to-use workflow product, completely cloud based and accessed via any web browser.",
   "icons": {
     "128": "icons/128x128-icon.png",
@@ -9,10 +9,10 @@
   },
   "app": {
     "urls": [
-      "https://steedos.com/#workflow"
+      "https://sg.steedos.com/system/steedos/#workflow"
     ],
     "launch": {
-      "web_url": "https://steedos.com/#workflow"
+      "web_url": "https://sg.steedos.com/system/steedos/#workflow"
     }
   },
   "container": ["DOMAIN_INSTALLABLE"],
